@@ -70,5 +70,5 @@ python predict.py "{\"duration\": 0, \"protocol_type\": \"tcp\", ...}"
 ```bash
 python predict.py "{\"duration\": 0, \"protocol_type\": \"tcp\", ...}"
 ```
-*(Los JSON completos se encuentran en la conversación anterior)*
+
 
