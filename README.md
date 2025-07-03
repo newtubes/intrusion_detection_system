@@ -1,4 +1,4 @@
-# Sistema de Detección de Intrusiones (IDS) con Machine Learning
+# Sistema de Detección de Intrusiones (IDS) con Machine Learning by Rebeca Romcy
 
 Este proyecto implementa un Sistema de Detección de Intrusiones (IDS) de alto rendimiento, capaz de clasificar tráfico de red como **normal** o **ataque**. Utiliza un modelo de **Random Forest** optimizado mediante búsqueda de hiperparámetros, entrenado con el dataset de referencia **NSL-KDD**.
 
@@ -24,7 +24,7 @@ Este repositorio es una demostración de un pipeline de Machine Learning de extr
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone <URL-DEL-REPOSITORIO>
+    git clone (https://github.com/newtubes/intrusion_detection_system)
     cd intrusion_detection_system
     ```
 
